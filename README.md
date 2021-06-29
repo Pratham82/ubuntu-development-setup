@@ -1,5 +1,14 @@
 # Essential Software Installation
 
+1. Get Dotfiles
+2. Shell
+3. Terminal
+4. Fonts
+5. Browsers
+6. Programming related
+7. Multimedia
+
+
 - Get Dotfiles
 
     ```bash
